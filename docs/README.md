@@ -1,4 +1,4 @@
-![GitCode](./src/assets/gitcode-logo.png?raw=true)
+![GitCode](./gitcode-logo.png?raw=true)
 
 # GitCode
 
@@ -12,7 +12,7 @@
 - [Repo](https://github.com/caiangums/gitcode)
 - [Dependencies](#dependencies)
 - [Specs for the Project](#specs-for-the-project)
-- [Screens](https://caiangums.github.io/gitcode/#/SCREENS)
+- [Screens](SCREENS)
 - [Env Vars](#env-vars)
 - [Development and Running](#development-and-running)
 - [Known Issues](#known-issues)
